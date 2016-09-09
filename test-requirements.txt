@@ -3,7 +3,7 @@ nose
 coverage
 pep8
 pyflakes
-flake8
+flake8==3.0.4
 mock
 Sphinx
 yanc
